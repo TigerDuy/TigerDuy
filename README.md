@@ -3,7 +3,7 @@
 **Full-stack Developer | Software Engineer**  
 Xây dựng sản phẩm thực tế, chú trọng về chất lượng, trải nghiệm người dùng và vận hành.
 
-[🔗 GitHub](https://github.com/TigerDuy) • ✉️ DuyTiger2000@gmail.com
+[🔗 GitHub](https://github.com/TigerDuy) • ✉️ TigerDuy2000@gmail.com
 
 ---
 
