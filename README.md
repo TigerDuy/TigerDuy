@@ -35,28 +35,6 @@ Game Development: Unity (C#), GameMaker Studio
 
 ---
 
-## Selected projects
-<!--(Danh sách bên dưới là ví dụ — thay thành repo thực tế bạn đã có bằng link tới từng repo.)
-/* */
-### [Project A — Business App](https://github.com/TigerDuy/project-a)  
-Ứng dụng quản lý bán hàng: authentication, CRUD, báo cáo, responsive UI.  
-**Tech:** Next.js, TypeScript, PostgreSQL, Docker.
-
-### [Project B — API Service](https://github.com/TigerDuy/project-b)  
-Microservice xử lý nghiệp vụ, có CI/CD, unit/integration tests.  
-**Tech:** Node.js, Express, Jest, GitHub Actions.
-
-### [Project C — Data Analysis](https://github.com/TigerDuy/project-c)  
-Phân tích dữ liệu & trực quan hoá báo cáo doanh số.  
-**Tech:** Python, Pandas, Matplotlib.
--->
----
-
-## Contribution & Open-source
-Mình sẵn sàng hợp tác, review PR và trao đổi kỹ thuật. Nếu bạn muốn cộng tác, mở Issue hoặc PR vào repo tương ứng — mình sẽ phản hồi nhanh.
-
----
-
 ## Contact
 - Email: TigerDuy2000@gmail.com  
 
