@@ -57,12 +57,6 @@ Mình sẵn sàng hợp tác, review PR và trao đổi kỹ thuật. Nếu bạ
 
 ---
 
-## GitHub Stats
-![TigerDuy GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerDuy&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerDuy&layout=compact)
-
----
-
 ## Contact
 - Email: TigerDuy2000@gmail.com  
 
